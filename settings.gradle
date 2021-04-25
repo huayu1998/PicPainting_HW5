@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PicPainting_HW5"
