@@ -15,15 +15,16 @@ This homework exercises your abilities to fetch a picture from the camera, handl
 - [x] (10pts) A Submission follows the guidelines, and README file is complete.
 
 #### BONUS (20pts)
-- [ ] (5pts) Animated icons.
-- [x] (5pts) Save to gallery.
+- [x] (5pts) Animated icons.
+- [ ] (5pts) Save to gallery.
 - [x] (5pts) Undo both line-drawing and icon-adding.
 - [x] (5pts) Pencil sound.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://user-images.githubusercontent.com/61512581/116230354-1f74b600-a78a-11eb-9a9f-32e0abe9ed14.gif" width=250><br>
+<img src="https://user-images.githubusercontent.com/61512581/116230479-459a5600-a78a-11eb-8214-a7e0221f6161.gif" width=250><br>
+<img src="https://user-images.githubusercontent.com/61512581/116230542-5a76e980-a78a-11eb-81f8-dbda0df99939.gif" width=250><br>
 
 ### Notes
 Having hard time to save to gallery
