@@ -116,13 +116,16 @@ public class MyCanvas extends View {
 
     public void undoDraw () {
         if (pathList.size() != 0) {
-            pathList.remove(pathList.size() - 1);
 
             if (pathList.size() == 1) {
+                pathList.remove(pathList.size() - 1);
                 pathList.clear();
                 colorList.clear();
                 path.reset();
                 paint_brush.setColor(Color.BLACK);
+            }
+            else {
+                pathList.remove(pathList.size() - 1);
             }
 
             invalidate(); // add
